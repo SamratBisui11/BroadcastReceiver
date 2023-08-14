@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="broadcast_intent">Broadcast Intent</string>
+    <string name="example_of_broadcast">Example of Broadcast</string>
+    <string name="todo">TODO</string>
+    <string name="tutorials_point">Tutorials point</string>
+    <string name="send_broadcast">Send Broadcast</string>
+</resources>
